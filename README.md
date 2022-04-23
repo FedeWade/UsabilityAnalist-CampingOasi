@@ -1,2 +1,2 @@
-# UsabilityAnalist-CampingOasi
-Usability analysis of [Camping Oasi website](https://www.campingoasi.com/)
+# Usability analist at CampingOasi
+Usability analysis of [Camping Oasi](https://www.campingoasi.com/) website.
